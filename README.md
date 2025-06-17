@@ -9,8 +9,3 @@ I'm a CS graduate in distributed systems, a broad field I really love to deep di
 ![](https://nirzak-streak-stats.vercel.app/?user=ErgunYavuz&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ErgunYavuz&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-  <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/ErgunYavuz"/>  
-  </div>
-
